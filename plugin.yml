@@ -1,0 +1,4 @@
+name: "Spigot-Discord-Integration"
+version: "0.0.1"
+author: "monotron, OMKelderman"
+main: "me.imtoby.sdi.Main"
