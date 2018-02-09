@@ -1,0 +1,1 @@
+# spigot-discord-integration
